@@ -1,2 +1,2 @@
-# Awesome-Low-Resource-Indian-Language-Resources
-Awesome-Low-Resource-Indian-Language-Resources
+# Awesome-Low-Resource-Indian-Language-Papers
+Awesome-Low-Resource-Indian-Language-Papers
