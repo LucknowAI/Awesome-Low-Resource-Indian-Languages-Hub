@@ -42,3 +42,5 @@
 
 
 ## Papers
+- [Annotated Speech Corpus for Low Resource Indian Languages:
+Awadhi,Bhojpuri,Braj and Magahi](#https://s4sg-workshop.github.io/assets/papers/1.1.pdf)
