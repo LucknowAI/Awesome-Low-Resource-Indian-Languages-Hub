@@ -1,4 +1,4 @@
-<h2 align="center">Awesome-Low-Resource-Indian-Language-Papers 🧙‍♂️ </h2>
+<h2 align="center">Awesome-Low-Resource-Indian-Language 🧙‍♂️ </h2>
 
 <p align="center">
   <img width="650" src="https://raw.githubusercontent.com/LucknowAI/Awesome-Low-Resource-Indian-Language/main/assets/lang.jpg">
